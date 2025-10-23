@@ -25,4 +25,10 @@ function checkPassword(password, input) {
     }
 }
 
+checkPassword("pass", "pass");
+
+/* 
 checkPassword("pass", "forgot");
+checkPassword("pass", "reset");
+checkPassword("pass", "ssap");
+*/
